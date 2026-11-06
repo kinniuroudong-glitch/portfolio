@@ -1,8 +1,12 @@
 # 刘承龙 · 作品集
 
+**[打开作品展示页 →](https://kinniuroudong-glitch.github.io/portfolio/)**
+
 GitHub：[kinniuroudong-glitch](https://github.com/kinniuroudong-glitch)
 
 ## Ocean Spice｜海外餐厅菜单与预约网站
+
+[![Ocean Spice 餐厅体验网站真实截图](assets/ocean.jpg)](https://ocean-spice-owner-review.kinniuroudong.chatgpt.site/)
 
 **需求：** 让中文客人能读懂英泰菜单，查看菜品与价格，并体验预约流程。
 
@@ -16,6 +20,8 @@ GitHub：[kinniuroudong-glitch](https://github.com/kinniuroudong-glitch)
 
 ## 行旅｜中泰双语导游助手
 
+[![行旅中泰双语导游书真实截图](assets/travel.jpg)](https://jiaxing-puyuan-thai-guide.pages.dev/)
+
 **需求：** 带团备稿与现场讲解时，快速找到中泰对照内容，并练习泰语讲解。
 
 **本人贡献：** 整理导游素材与阅读流程，确定双语呈现、长短讲解及音频跟读需求；使用 Codex、Claude Code 辅助需求分解、页面调试与部署，持续核对页面与实际使用流程。
@@ -25,6 +31,8 @@ GitHub：[kinniuroudong-glitch](https://github.com/kinniuroudong-glitch)
 [GitHub 备用：内容与源码](https://github.com/kinniuroudong-glitch/travel-guide-zh-th)
 
 ## 泰语词汇卡
+
+[![泰语词汇卡真实截图](assets/vocabulary.jpg)](https://kinniuroudong-glitch.github.io/thai-vocabulary-studio/)
 
 **需求：** 将分散的泰语词目变成便于点读、查看例句与继续学习的卡片。
 
